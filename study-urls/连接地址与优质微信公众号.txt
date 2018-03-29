@@ -4,7 +4,7 @@ docker中文社区 http://www.docker.org.cn/dockershuji.html
 
 开源中国 https://www.oschina.net/question/tag/java/
 
-个人CSDN博客  https://www.csdn.net/
+个人CSDN博客  https://blog.csdn.net/u011127348
 
 36氪 http://36kr.com/
 
