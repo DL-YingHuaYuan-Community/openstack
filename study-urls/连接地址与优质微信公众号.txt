@@ -1,0 +1,13 @@
+深度开源  http://www.open-open.com/
+
+docker中文社区 http://www.docker.org.cn/dockershuji.html
+
+开源中国 https://www.oschina.net/question/tag/java/
+
+个人CSDN博客  https://www.csdn.net/
+
+36氪 http://36kr.com/
+
+区块链开源框架corda：https://www.corda.net/zh-hant/
+
+区块链入门构建：https://segmentfault.com/a/1190000012433397
